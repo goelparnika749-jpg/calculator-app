@@ -22,7 +22,7 @@ from .calculador import Calculador
 
 
 class Calculadora(object):
-    """Classe para criação do layout da calculadora, distribuição dos botões
+    """Test - Classe para criação do layout da calculadora, distribuição dos botões
     e a adição de suas funcionalidades.
 
     Os botões distríbuidos no layout estão conforme o exemplo abaixo:
